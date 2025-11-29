@@ -36284,6 +36284,7 @@
 ./poc/cve/CVE-2017-1000163_9.yaml
 ./poc/cve/CVE-2017-1000163_90.yaml
 ./poc/cve/CVE-2017-1000163_91.yaml
+./poc/cve/CVE-2017-1000163_92.yaml
 ./poc/cve/CVE-2017-1000170-22b977968cdfc3441165a4a3380516b6.yaml
 ./poc/cve/CVE-2017-1000170-2837.yaml
 ./poc/cve/CVE-2017-1000170-2838.yaml
@@ -36721,6 +36722,7 @@
 ./poc/cve/CVE-2017-11586_73.yaml
 ./poc/cve/CVE-2017-11586_74.yaml
 ./poc/cve/CVE-2017-11586_75.yaml
+./poc/cve/CVE-2017-11586_76.yaml
 ./poc/cve/CVE-2017-11586_8.yaml
 ./poc/cve/CVE-2017-11586_9.yaml
 ./poc/cve/CVE-2017-11610.yaml
@@ -44002,6 +44004,7 @@
 ./poc/cve/CVE-2018-19136_80.yaml
 ./poc/cve/CVE-2018-19136_81.yaml
 ./poc/cve/CVE-2018-19136_82.yaml
+./poc/cve/CVE-2018-19136_83.yaml
 ./poc/cve/CVE-2018-19136_9.yaml
 ./poc/cve/CVE-2018-19137.yaml
 ./poc/cve/CVE-2018-19137_1.yaml
@@ -50299,6 +50302,7 @@
 ./poc/cve/CVE-2019-18957_76.yaml
 ./poc/cve/CVE-2019-18957_77.yaml
 ./poc/cve/CVE-2019-18957_78.yaml
+./poc/cve/CVE-2019-18957_79.yaml
 ./poc/cve/CVE-2019-18957_8.yaml
 ./poc/cve/CVE-2019-18957_9.yaml
 ./poc/cve/CVE-2019-1897.yaml
@@ -57985,6 +57989,7 @@
 ./poc/cve/CVE-2020-29279_34.yaml
 ./poc/cve/CVE-2020-29279_35.yaml
 ./poc/cve/CVE-2020-29279_36.yaml
+./poc/cve/CVE-2020-29279_37.yaml
 ./poc/cve/CVE-2020-29279_4.yaml
 ./poc/cve/CVE-2020-29279_5.yaml
 ./poc/cve/CVE-2020-29279_6.yaml
@@ -61351,6 +61356,7 @@
 ./poc/cve/CVE-2020-9480_29.yaml
 ./poc/cve/CVE-2020-9480_3.yaml
 ./poc/cve/CVE-2020-9480_30.yaml
+./poc/cve/CVE-2020-9480_31.yaml
 ./poc/cve/CVE-2020-9480_4.yaml
 ./poc/cve/CVE-2020-9480_5.yaml
 ./poc/cve/CVE-2020-9480_6.yaml
@@ -73657,6 +73663,7 @@
 ./poc/cve/CVE-2021-3287_16.yaml
 ./poc/cve/CVE-2021-3287_17.yaml
 ./poc/cve/CVE-2021-3287_18.yaml
+./poc/cve/CVE-2021-3287_19.yaml
 ./poc/cve/CVE-2021-3287_2.yaml
 ./poc/cve/CVE-2021-3287_3.yaml
 ./poc/cve/CVE-2021-3287_4.yaml
@@ -92432,6 +92439,7 @@
 ./poc/cve/CVE-2022-29455_51.yaml
 ./poc/cve/CVE-2022-29455_52.yaml
 ./poc/cve/CVE-2022-29455_53.yaml
+./poc/cve/CVE-2022-29455_54.yaml
 ./poc/cve/CVE-2022-29455_6.yaml
 ./poc/cve/CVE-2022-29455_7.yaml
 ./poc/cve/CVE-2022-29455_8.yaml
@@ -140868,6 +140876,7 @@
 ./poc/cve/CVE-2024-10146_24.yaml
 ./poc/cve/CVE-2024-10146_25.yaml
 ./poc/cve/CVE-2024-10146_26.yaml
+./poc/cve/CVE-2024-10146_27.yaml
 ./poc/cve/CVE-2024-10146_3.yaml
 ./poc/cve/CVE-2024-10146_4.yaml
 ./poc/cve/CVE-2024-10146_5.yaml
@@ -164244,6 +164253,7 @@
 ./poc/cve/CVE-2024-4180_19.yaml
 ./poc/cve/CVE-2024-4180_2.yaml
 ./poc/cve/CVE-2024-4180_20.yaml
+./poc/cve/CVE-2024-4180_21.yaml
 ./poc/cve/CVE-2024-4180_3.yaml
 ./poc/cve/CVE-2024-4180_4.yaml
 ./poc/cve/CVE-2024-4180_5.yaml
@@ -175706,6 +175716,7 @@
 ./poc/cve/CVE-2024-6690_31.yaml
 ./poc/cve/CVE-2024-6690_32.yaml
 ./poc/cve/CVE-2024-6690_33.yaml
+./poc/cve/CVE-2024-6690_34.yaml
 ./poc/cve/CVE-2024-6690_4.yaml
 ./poc/cve/CVE-2024-6690_5.yaml
 ./poc/cve/CVE-2024-6690_6.yaml
@@ -179459,6 +179470,7 @@
 ./poc/cve/CVE-2024-9772_52.yaml
 ./poc/cve/CVE-2024-9772_53.yaml
 ./poc/cve/CVE-2024-9772_54.yaml
+./poc/cve/CVE-2024-9772_55.yaml
 ./poc/cve/CVE-2024-9772_6.yaml
 ./poc/cve/CVE-2024-9772_7.yaml
 ./poc/cve/CVE-2024-9772_8.yaml
@@ -180977,6 +180989,7 @@
 ./poc/cve/CVE-2025-1328-caa8fd0f95a46a295f24f88ab8fc5485.yaml
 ./poc/cve/CVE-2025-1328.yaml
 ./poc/cve/CVE-2025-13311-just_highlight-d21187bc-5bd0-49b9-9ef2-6654263cd93c.yaml
+./poc/cve/CVE-2025-13315.yaml
 ./poc/cve/CVE-2025-13317-appointment_booking_calendar-638217c4-7a37-49e4-8660-5510ace692ec.yaml
 ./poc/cve/CVE-2025-13322-wp_audio_gallery-101675ae-88cf-42fc-b9ea-5dd37cdf7464.yaml
 ./poc/cve/CVE-2025-13370-projectlist-e424d27b-f719-4fbf-b4eb-83b42130666c.yaml
@@ -195274,6 +195287,7 @@
 ./poc/cve/CVE-2025-5835-droip-e2e6b451-9835-4887-ade7-b18807223a88.yaml
 ./poc/cve/CVE-2025-58360.yaml
 ./poc/cve/CVE-2025-58360_1.yaml
+./poc/cve/CVE-2025-58360_2.yaml
 ./poc/cve/CVE-2025-5841-c2b40bc66b03900886948326fb5643a5.yaml
 ./poc/cve/CVE-2025-5842-ca6bb1ced53ee561b0f3159b3eafdb2f.yaml
 ./poc/cve/CVE-2025-5842-mdl_shortcodes-1be519d5-b505-4b5d-9f14-c8544e8f8298.yaml
@@ -213898,10 +213912,12 @@
 ./poc/exposed/sftp-credentials-exposure_1.yaml
 ./poc/exposed/sftp-credentials-exposure_2.yaml
 ./poc/exposed/sftp-credentials-exposure_3.yaml
+./poc/exposed/sharepoint-files-disclosure.yaml
 ./poc/exposed/sharepoint-layouts-disclosure.yaml
 ./poc/exposed/sharepoint-masterpage-disclosure.yaml
 ./poc/exposed/sharepoint-site-metadata-disclosure.yaml
 ./poc/exposed/sharepoint-sitepages-disclosure.yaml
+./poc/exposed/shopify-shared-secret-exposure.yaml
 ./poc/exposed/sidekiq-sensitive-url.yaml
 ./poc/exposed/sidekiq-sensitive-url_1.yaml
 ./poc/exposed/sidekiq-sensitive-url_2.yaml
@@ -246943,6 +246959,7 @@
 ./poc/other/csod-panel_2.yaml
 ./poc/other/csod-panel_3.yaml
 ./poc/other/csod-panel_4.yaml
+./poc/other/csp-script-src-wildcard.yaml
 ./poc/other/csprite-a076f9d8632bc618856f6100bbea778c.yaml
 ./poc/other/csprite-f5da3a4f-7084-4ba9-89c9-5a480efc7eca.yaml
 ./poc/other/csprite.yaml
